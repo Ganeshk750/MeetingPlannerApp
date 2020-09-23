@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/Ganeshk750/MeetingPlannerApp/issues"
   },
-  "homepage": "https://github.com/Ganeshk750/MeetingPlannerApp#readme"
+  "homepage": "https://github.com/Ganeshk750/MeetingPlannerApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
